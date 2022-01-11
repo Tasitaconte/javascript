@@ -10,4 +10,10 @@ if(suma >=10 ){
     console.log("numero mayor a 10");
 };
 
+document.getElementById("").innerHTML
 
+/* FUNCION 
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+*/
