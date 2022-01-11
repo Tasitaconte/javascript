@@ -1,7 +1,13 @@
+const texto = "Hola Mundo"
 
+document.getElementById("nomPagina").innerHTML = texto;
 
-document.getElementById("mensaje").innerHTML = "My First JavaScript";
-document.getElementById("nomPagina").innerHTML = "JavaScript";
+var numePr = 5;
+var numeSg = 7;
+var suma = numePr+numeSg;
 
-window.alert("Hola")
+if(suma >=10 ){
+    console.log("numero mayor a 10");
+};
+
 
